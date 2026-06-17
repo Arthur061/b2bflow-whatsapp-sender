@@ -1,0 +1,14 @@
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Distribution
+dist/
+build/
+*.egg-info/
